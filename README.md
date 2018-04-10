@@ -1,8 +1,8 @@
-# vpn-health-checker
+# VPN Health Checker
 This simple node app periodically pings a given url and sends a push notification when the url is unreachable.
 
 ## Setup
-1. `cd` to project directory (`vpn-health-checker`)
+1. `cd` to project directory `vpn-health-checker/`
 2. run the command: `npm install`
 
 ## Usage
