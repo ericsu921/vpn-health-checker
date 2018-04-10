@@ -8,4 +8,4 @@ This simple node app periodically pings a given url and sends a push notificatio
 ## Usage
 `npm start [url to ping]`
 
-Note: Make sure the url is stable and can only be hit when behind your VPN. Also, for the notifications to work, you must allow notifications from *terminal-notifier*, which can be set in your System Preferences under Notifications.
+> Note: Make sure the url is stable and can only be hit when behind your VPN. Also, for the notifications to work, you must allow notifications from __terminal-notifier__, which can be set in your System Preferences under Notifications.
