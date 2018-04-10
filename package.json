@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com:ericsu921/vpn-health-checker.git"
+    "url": "git+ssh://git@github.com:ericsu921/vpn-health-checker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://gitlab.com/ericsu921/vpn-health-checker/blob/master/README.md",
+  "homepage": "https://github.com/ericsu921/vpn-health-checker/blob/master/README.md",
   "dependencies": {
     "node-notifier": "^5.2.1",
     "ping": "^0.2.2"
