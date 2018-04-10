@@ -1,0 +1,21 @@
+{
+  "name": "vpn-health-checker",
+  "version": "1.0.0",
+  "description": "This simple node app periodically pings a given url and sends a push notification when the url is unreachable.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com:ericsu921/vpn-health-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://gitlab.com/ericsu921/vpn-health-checker/blob/master/README.md",
+  "dependencies": {
+    "node-notifier": "^5.2.1",
+    "ping": "^0.2.2"
+  }
+}
